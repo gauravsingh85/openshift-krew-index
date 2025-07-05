@@ -24,7 +24,7 @@ spec:
         arch: arm64
     uri: https://developers.redhat.com/content-gateway/file/pub/openshift-v4/clients/odo/v3.2.0/odo-linux-arm64.tar.gz
     sha256: 2831d96008e1d89549efdc4da260237f3f314a3ca0c66be9064c2f3a165632f9
-    bin: odd
+    bin: odo
   - selector:
       matchLabels:
         os: linux
