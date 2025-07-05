@@ -32,4 +32,4 @@ spec:
         arch: amd64
     uri: https://developers.redhat.com/content-gateway/file/pub/openshift-v4/clients/serverless/0.19.1/kn-windows-amd64-0.19.1.zip
     sha256: d4f796f02f4166771c2091c4bd159e0bea6c3018eb3a5b2de2a5bc1cf19a5ba3
-    bin: kn
+    bin: kn.exe
